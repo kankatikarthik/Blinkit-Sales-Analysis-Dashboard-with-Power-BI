@@ -5,16 +5,6 @@ The dataset includes the following columns:
 
 Item Fat Content, Item Identifier, Item Type, Outlet Establishment Year, Outlet Identifier, Outlet Location Type, Outlet Size, Outlet Type, Item Visibility, Item Weight, Sales, Rating.
 
-Key Features :
-
-Interactive Visualizations: Dynamic charts and slicers for real-time filtering.
-KPI Metrics: Key performance indicators like total sales, average customer rating, and sales growth.
-Trend Analysis: Line charts for sales over time.
-Sales Distribution: Donut charts to visualize proportional data.
-Outlet Performance: Bar charts comparing sales across different outlet types and sizes.
-Data Modeling: Relationships and calculated columns for optimized analysis.
-User-Friendly Layout: Clean design with intuitive filters for exploration.
-
 Technical Highlights :
 
 Power Query: Used for data cleaning and transformation.
@@ -23,11 +13,23 @@ DAX Functions: Utilized for calculated columns and measures like total sales and
 Visualization Types: Line charts, bar charts, donut charts, and KPIs.
 Filters and Slicers: Enabled dynamic interaction for detailed insights.
 
-Development Steps :
+Key Features :
 
-Data Import and Cleaning: Prepared the dataset in Power BI using Power Query.
-Modeling: Created relationships and added calculated fields using DAX.
-Dashboard Creation:
-Designed visualizations: Line chart, donut chart, bar chart, KPIs.
+Interactive Visualizations: Dynamic charts and slicers for real-time filtering.
+
+KPI Metrics: Key performance indicators like total sales, average customer rating, and sales growth.
+
+Trend Analysis: Line charts for sales over time.
+
+Sales Distribution: Donut charts to visualize proportional data.
+
+Outlet Performance: Bar charts comparing sales across different outlet types and sizes.
+
+Data Modeling: Relationships and calculated columns for optimized analysis.
+
+User-Friendly Layout: Clean design with intuitive filters for exploration.
+
 Implemented slicers for filtering by outlet size, location type, and item category.
+
 Analysis: Extracted insights like top-performing outlets, high-selling categories, and sales trends.
+

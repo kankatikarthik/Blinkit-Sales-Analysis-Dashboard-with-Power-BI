@@ -8,9 +8,13 @@ Item Fat Content, Item Identifier, Item Type, Outlet Establishment Year, Outlet 
 Technical Highlights :
 
 Power Query: Used for data cleaning and transformation.
-Data Modeling: Established relationships between columns and created calculated fields (e.g., Sales per Item).
+
+Data Modeling: Established relationships between columns and created calculated fields.
+
 DAX Functions: Utilized for calculated columns and measures like total sales and average ratings.
+
 Visualization Types: Line charts, bar charts, donut charts, and KPIs.
+
 Filters and Slicers: Enabled dynamic interaction for detailed insights.
 
 Key Features :
